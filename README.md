@@ -44,17 +44,17 @@ scikit-learn
 matplotlib
 seaborn
 
-📊 Output
+##📊 Output
 📈 R² Score and Mean Squared Error for both models
 
 📌 Feature importance graph for restaurant rating prediction
 
-📽️ Demo
+##📽️ Demo
 🎬 Watch the full workflow in the task1.mp4 video included in this repository.
 
-🖼️ Project Snapshot
+##🖼️ Project Snapshot
 
-🧑‍💻 Author
+##🧑‍💻 Author
 Suruchi Doke
 Artificial Intelligence & Data Science | Batch 2027
 🎓 Intern at Cognifyz Technologies – ML Internship
